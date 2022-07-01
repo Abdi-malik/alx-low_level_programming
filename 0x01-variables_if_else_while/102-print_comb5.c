@@ -1,4 +1,4 @@
-nclude <stdio.h>
+#include <stdio.h>
 
 /**
  *main -> assign a random number to the variable n each time it is executed
