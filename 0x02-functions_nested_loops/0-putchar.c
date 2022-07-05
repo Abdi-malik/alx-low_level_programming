@@ -1,6 +1,6 @@
 #include "main.h"
 /**
-* main - printing _putchar using standerd file called main.h
+* main - printing _putchar 
 * return: returns 0
 */
 int main(void)
