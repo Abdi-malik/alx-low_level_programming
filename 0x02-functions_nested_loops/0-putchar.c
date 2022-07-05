@@ -1,8 +1,8 @@
 #include "main.h"
 
 /**
-* main - printing putchar
-* return: returns 0
+* main - prints putchar
+* return: always 0
 */
 int main(void)
 {
