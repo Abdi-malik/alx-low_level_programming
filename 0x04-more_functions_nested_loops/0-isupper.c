@@ -5,7 +5,7 @@
 * Return: if the Letter be Alphabet upper 1 if it is not it returns 0
 */
 
-int _isupper(int c);
+int _isupper(int c)
 {
 	return (c >= 65 && c <= 90);
 }
